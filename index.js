@@ -26,5 +26,5 @@ app.use("/", viewrouter)
 
     
 app.listen(port, () => {
-    console.log(`Started server on ${port}`);
+    console.log(`Started server on this post ${port}`);
 });
